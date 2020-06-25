@@ -1,0 +1,18 @@
+{
+  "name": "secondnodeapp",
+  "version": "1.0.0",
+  "description": "about node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "diwakar",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
